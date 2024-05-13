@@ -1,18 +1,22 @@
 <h1 align="center">Hello, World! My name is &lt;/Wendel&gt;.</h1>
 
 <h2 align="center">
-Here are some facts about me:
+About me
 </h2>
 
-<ul align="center">
-    <li>I'm 17 years old</li>
-    <li>I'm from Brazil</li>
-    <li>I study at the Technical College of Limeira - Unicamp</li>
-    <li>My favorite programming languages are: C/C++, Kotlin, Python</li>
-    <li>I use arch btw!</li>
-</ul>
+<p align="center">
+    I live in Brazil, I'm 17 years old and I study at the Technical College of Limeira - Unicamp.
+</p>
 
-<h2 align="center">My knowledge of technologies:</h2>
+<p align="center">
+    My favorite programming languages ​​are: C/C++, Kotlin and Python
+</p>
+
+<p align="center">
+    I use arch btw!
+</p>
+
+<h2 align="center">My knowledge of technologies</h2>
 <p align="center">
   <img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
   <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
