@@ -17,24 +17,22 @@ About me
 </p>
 
 <h2 align="center">My knowledge of technologies</h2>
-<p align="center">
-  <img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/express-js.png" alt="express-js"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/c-programming.png" alt="c-programming"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/kotlin.png" alt="kotlin"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/nolan/96/flask.png" alt="flask"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql-logo"/>
-  <img width="96" height="96" src="https://img.icons8.com/material-sharp/96/arch-linux.png" alt="arch-linux"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/debian.png" alt="debian"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/git.png" alt="git"/>
-</p>
+
+<div align="center">
+    
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+    
+</div>
 
 <h2 align="center">Stats</h2>
 
