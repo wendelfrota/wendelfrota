@@ -7,7 +7,7 @@
 ###
 
 - I'm a 17-year-old student from Brazil, currently studying at the Technical College of Limeira - Unicamp
-- My favorite programming languages are C/C++, Kotlin, and Python
+- My favorite programming languages are C/C++, Rust, and Python
 - By the way, I use Arch Linux!
 
 ###
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
