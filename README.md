@@ -7,7 +7,7 @@
 ###
 
 - I'm a 17-year-old student from Brazil, currently studying at the Technical College of Limeira - Unicamp
-- My favorite programming languages are C/C++, Rust, and Python
+- My favorite programming languages are C/C++, Rust, Golang, and Python
 - By the way, I use Arch Linux!
 
 ###
